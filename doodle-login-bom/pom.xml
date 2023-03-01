@@ -39,6 +39,16 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-login-server-core</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-starter-login-server</artifactId>
+        <version>${project.version}</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 </project>
