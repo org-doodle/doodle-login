@@ -14,8 +14,10 @@
   <packaging>pom</packaging>
   <modules>
     <module>doodle-login-bom</module>
+    <module>doodle-login-client</module>
     <module>doodle-login-server</module>
     <module>doodle-login-server-core</module>
+    <module>doodle-starter-login-client</module>
     <module>doodle-starter-login-server</module>
   </modules>
 </project>

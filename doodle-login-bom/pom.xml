@@ -41,7 +41,17 @@
       </dependency>
       <dependency>
         <groupId>org.doodle</groupId>
+        <artifactId>doodle-login-client</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
         <artifactId>doodle-login-server-core</artifactId>
+        <version>${project.version}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.doodle</groupId>
+        <artifactId>doodle-starter-login-client</artifactId>
         <version>${project.version}</version>
       </dependency>
       <dependency>
